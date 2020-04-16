@@ -1,0 +1,3 @@
+[submodule "kali-tools-installation"]
+	path = kali-tools-installation
+	url = https://github.com/TheThingGoesSkra/kali-tools-installation
